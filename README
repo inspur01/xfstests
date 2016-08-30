@@ -1,0 +1,8 @@
+_______________________
+The repository at oss.sgi.com is no longer used.
+Please change your sources to point at:
+
+	git://git.kernel.org/pub/scm/fs/xfs/xfstests-dev.git
+
+and refetch the your master branch.
+
